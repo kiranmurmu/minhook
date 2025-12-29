@@ -13,6 +13,7 @@ insert_final_newline = true
 
 # C/C++ code formatting
 [*.{c,h}]
+charset = utf-8-bom
 cpp_space_pointer_reference_alignment = right
 
 [*.sln]
